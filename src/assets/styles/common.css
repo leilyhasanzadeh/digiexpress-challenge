@@ -1,0 +1,26 @@
+.size {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.text {
+  font-size: 20px;
+  padding: 0 12px;
+}
+
+.color {
+  border: 4px outset lightgray;
+  background-color: lightgray;
+}
+
+.flex {
+  display: flex;
+}
+
+.top {
+  margin-top: 100px;
+}
+
+.mt {
+  margin-top: 12px;
+}

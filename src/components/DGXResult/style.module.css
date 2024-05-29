@@ -1,0 +1,9 @@
+.result {
+  display: flex;
+  padding: 16px 0;
+  border: 4px ridge #ffff0080;
+  background-color: #ffff0080;
+  width: 50%;
+  margin: 12px auto;
+  justify-content: center;
+}

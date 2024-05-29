@@ -1,0 +1,32 @@
+.drop-down {
+  position: relative;
+}
+
+.active {
+  border-style: ridge;
+}
+
+.item {
+  height: 32px;
+}
+
+.list {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.drop-down .list .item:hover {
+  background-color: gray;
+}
+
+.button {
+  background: unset;
+  border-radius: unset;
+  font-family: "Arapix";
+  font-weight: 800;
+  height: 36px;
+}
